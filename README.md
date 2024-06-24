@@ -99,14 +99,3 @@ User acceptance testing was conducted to ensure the system meets the requirement
 
 - Ahmed Mohamed Mohamed Kamal Khalil
 
-## Acknowledgements
-
-I would like to express my heartfelt gratitude to Ms. Aziah Binti Abdollah for her invaluable guidance and support throughout the project. Special thanks to Mr. VIJAYARAJ A/L C.VIJAYASINGAM for his insightful feedback. I also extend my appreciation to Mr. Dhason Padmakumar for his critical insights and my family for their unwavering support.
-
-## License
-
-[Specify the license under which the project is distributed, e.g., MIT License]
-
----
-
-This template provides a structured and comprehensive overview of your eVoteX project. Make sure to customize each section according to your specific project details and repository structure.
